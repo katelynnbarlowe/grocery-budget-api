@@ -1,0 +1,6 @@
+https://web-crunch.com/posts/ruby-on-rails-api-vue-js
+
+"Definitely worth using something other than your secret key here if you prefer!"  ??
+
+NOTE: 
+- api and frontend run on two different servers. need CORS allowance to prevent ajax cals from being blocked (config/initializers/cors.rb)

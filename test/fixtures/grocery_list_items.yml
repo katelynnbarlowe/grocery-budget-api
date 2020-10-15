@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  cost: 1.5
+  qty: 1
+  user: one
+  grocery_list_group: one
+
+two:
+  name: MyString
+  cost: 1.5
+  qty: 1
+  user: two
+  grocery_list_group: two

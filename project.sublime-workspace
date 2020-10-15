@@ -1,0 +1,595 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"groce",
+				"grocery_list"
+			],
+			[
+				"groc",
+				"grocery_lists"
+			],
+			[
+				"grocery_",
+				"grocery_list_items"
+			],
+			[
+				"list",
+				"list_item"
+			],
+			[
+				"list_ite",
+				"list_item"
+			],
+			[
+				"gr",
+				"group_params"
+			],
+			[
+				"list_",
+				"list_group"
+			],
+			[
+				"List",
+				"ListGroup"
+			],
+			[
+				"has",
+				"has_one"
+			],
+			[
+				"has_",
+				"has_many"
+			],
+			[
+				"total",
+				"total_min"
+			],
+			[
+				"time",
+				"time_arr"
+			],
+			[
+				"spli",
+				"split_index"
+			],
+			[
+				"num",
+				"num_arr"
+			],
+			[
+				"ret",
+				"ret_arr"
+			],
+			[
+				"col",
+				"colDif"
+			],
+			[
+				"row",
+				"rowDif"
+			],
+			[
+				"str",
+				"strArr"
+			],
+			[
+				"char",
+				"charArr"
+			],
+			[
+				"update",
+				"updateChecked"
+			],
+			[
+				"curre",
+				"currentTotal"
+			],
+			[
+				"cont",
+				"containerStyles"
+			],
+			[
+				"sa",
+				"salesTax"
+			],
+			[
+				"state",
+				"stateToSave"
+			],
+			[
+				"fz",
+				"fz\tfont-size"
+			],
+			[
+				"new",
+				"newValue"
+			],
+			[
+				"add",
+				"addingNum"
+			],
+			[
+				"adding",
+				"addingNum"
+			],
+			[
+				"key",
+				"keyVal"
+			],
+			[
+				"area",
+				"areaIndex"
+			],
+			[
+				"item",
+				"itemIndex"
+			],
+			[
+				"remove",
+				"removeItem"
+			],
+			[
+				"text-",
+				"text-red"
+			],
+			[
+				"allC",
+				"allCheck"
+			],
+			[
+				"upd",
+				"updateCheckedTotal"
+			],
+			[
+				"checke",
+				"checkedItems"
+			],
+			[
+				"checked",
+				"checkedTotal"
+			],
+			[
+				"set",
+				"setCookie"
+			],
+			[
+				"check",
+				"checkedItems"
+			],
+			[
+				"get",
+				"getCookie"
+			],
+			[
+				"comp",
+				"components"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"gro",
+				"groceryList"
+			],
+			[
+				"grocer",
+				"groceryItem"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Install Package Control"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 348.0,
+		"history":
+		[
+			"composer update",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/katyd/AppData/Roaming/npm-cache/_logs/2020-08-29T17_02_06_477Z-debug.log",
+		"/C/Projects/grocery-full-app/notes.txt",
+		"/C/Projects/grocery-full-app/grocerylist-vue/package.json",
+		"/C/Projects/grocery-full-app/grocerylist-front/src/main.js",
+		"/C/Projects/grocery-full-app/grocerylist-front/build/webpack.dev.conf.js",
+		"/C/Projects/grocery-full-app/grocerylist-front/package.json",
+		"/C/Projects/grocery-full-app/node_modules/sass-loader/CHANGELOG.md",
+		"/C/Projects/grocery-full-app/node_modules/sass-loader/dist/utils.js",
+		"/C/Projects/grocery-full-app/grocerylist-front/src/assets/sb-admin-2.scss",
+		"/C/Projects/grocery-full-app/package.json",
+		"/C/Projects/grocery-build/dist/main.js",
+		"/C/Projects/grocery-full-app/config/initializers/cors.rb",
+		"/C/Projects/grocery-full-app/app/controllers/application_controller.rb",
+		"/C/Projects/grocery-full-app/app/controllers/api/v1/grocery_lists_controller.rb",
+		"/C/Projects/grocery-full-app/app/controllers/api/v1/grocery_list_groups_controller.rb",
+		"/C/Projects/grocery-full-app/app/controllers/api/v1/grocery_list_items_controller.rb",
+		"/C/Projects/grocery-full-app/config/routes.rb",
+		"/C/Projects/grocery-full-app/app/controllers/refresh_controller.rb",
+		"/C/Projects/grocery-full-app/app/controllers/signin_controller.rb",
+		"/C/Projects/grocery-full-app/app/controllers/signup_controller.rb",
+		"/C/Projects/grocery-rails/config/routes.rb",
+		"/C/Projects/rails-blog/app/views/articles/index.html.erb",
+		"/C/Projects/grocery-rails/app/views/lists/show.html.erb",
+		"/C/Projects/grocery-rails/app/controllers/list_items_controller.rb",
+		"/C/Projects/grocery-rails/app/models/list_item.rb",
+		"/C/Projects/grocery-rails/app/views/list_items/new.html.erb",
+		"/C/Projects/grocery-rails/app/views/list_items/_form.html.erb",
+		"/C/Projects/grocery-build/src/components/GroceryItem.vue",
+		"/C/Projects/grocery-rails/notes.txt",
+		"/C/Projects/grocery-rails/app/controllers/list_groups_controller.rb",
+		"/C/Projects/rails-blog/app/models/article.rb",
+		"/C/Projects/grocery-rails/app/views/list_groups/edit.html.erb",
+		"/C/Projects/grocery-rails/app/views/lists/_form.html.erb",
+		"/C/Projects/grocery-rails/app/views/list_groups/_form.html.erb",
+		"/C/Projects/grocery-rails/app/models/list.rb",
+		"/C/Projects/grocery-rails/app/models/list_group.rb",
+		"/C/Projects/rails-blog/app/views/articles/show.html.erb",
+		"/C/Projects/grocery-rails/db/migrate/20200712000340_create_list_items.rb",
+		"/C/Projects/grocery-rails/db/migrate/20200711235557_create_list_groups.rb",
+		"/C/Projects/rails-blog/app/controllers/articles_controller.rb",
+		"/C/Projects/rails-blog/app/views/articles/_form.html.erb",
+		"/C/Projects/rails-blog/app/controllers/comments_controller.rb",
+		"/C/Projects/rails-blog/app/views/comments/_form.html.erb",
+		"/C/Projects/grocery-rails/app/views/list_groups/new.html.erb",
+		"/C/Projects/grocery-rails/app/controllers/lists_controller.rb",
+		"/C/Projects/grocery-rails/app/views/lists/index.html.erb",
+		"/C/Projects/grocery-rails/app/views/lists/edit.html.erb",
+		"/C/Projects/grocery-rails/app/views/lists/new.html.erb",
+		"/C/Projects/rails-blog/app/views/articles/new.html.erb",
+		"/C/Projects/grocery-rails/app/controllers/application_controller.rb",
+		"/C/Projects/grocery-rails/app/assets/stylesheets/lists.scss",
+		"/C/Projects/grocery-rails/app/views/lists/index.html",
+		"/C/Projects/grocery-rails/db/migrate/20200711234310_create_lists.rb",
+		"/C/Projects/grocery-rails/db/seeds.rb",
+		"/C/Projects/rails-learning/notes.txt",
+		"/C/Projects/grocery-rails/app/controllers/grocery_list_controller.rb",
+		"/C/Projects/grocery-rails/.gitignore",
+		"/C/Projects/grocery-build/readme.md",
+		"/C/Projects/wp-vue-mimosa/notes.txt",
+		"/C/Users/katyd/Dropbox/Projects/grocery-build/questions.txt",
+		"/C/Projects/rails-blog/app/views/comments/_comment.html.erb",
+		"/C/Projects/rails-blog/app/views/articles/_comment.html",
+		"/C/Projects/rails-blog/app/assets/stylesheets/articles.scss",
+		"/C/Projects/rails-blog/config/routes.rb",
+		"/C/Projects/ruby-learning/sample.txt",
+		"/C/Projects/rails-blog/app/views/articles/edit.html.erb",
+		"/C/Projects/rails-blog/app/views/welcome/index.html.erb",
+		"/C/Projects/rails-blog/config/database.yml",
+		"/C/Projects/rails-blog/db/migrate/20200614192731_create_articles.rb",
+		"/C/Projects/ruby-learning/stem.rb",
+		"/C/Projects/ruby-learning/time.rb",
+		"/C/Projects/ruby-learning/sample-files/test_NAME.rb",
+		"/C/Projects/ruby-learning/sample-files/Rakefile",
+		"/C/Projects/ruby-learning/sample-files/NAME-sample.gemspec",
+		"/C/Projects/rails-blog/app/controllers/application_controller.rb",
+		"/C/Projects/rails-blog/Gemfile",
+		"/C/Projects/ruby-learning/NAME-sample.gemspec",
+		"/C/Projects/ruby-learning/astonishing.rb",
+		"/C/Projects/ruby-learning/queens.rb",
+		"/C/Projects/recordstore/recordstore-front/src/backend/axios/index.js",
+		"/C/Projects/ruby-learning/ex1.rb",
+		"/C/Projects/ruby-learning/capitalize.rb",
+		"/C/Projects/ruby-learning/length.rb",
+		"/C/Projects/ruby-learning/twins.rb",
+		"/C/Projects/ruby-learning/array.rb",
+		"/C/Projects/recordstore/app/controllers/api/v1/artists_controller.rb",
+		"/C/Projects/grocery-build/.gitignore",
+		"/C/Projects/grocery-build/questions.txt",
+		"/C/Projects/grocery-build/src/components/Totals.vue",
+		"/C/Projects/grocery-build/assets/sb-admin-2.scss",
+		"/C/Projects/grocery-build/src/components/GroceryList.vue",
+		"/C/Projects/grocery-build/src/components/GroceryGroup.vue",
+		"/C/Projects/grocery-build/src/App.vue",
+		"/C/Projects/grocery-build/src/main.js",
+		"/C/Projects/grocery-build/assets/utilities/_background.scss",
+		"/C/Projects/grocery-build/node_modules/bootstrap/scss/_variables.scss",
+		"/C/Projects/grocery-build/assets/_variables.scss",
+		"/C/Projects/grocery/questions.txt",
+		"/C/Projects/grocery/main.js",
+		"/C/Projects/grocery-build/build/webpack.config.dev.js",
+		"/C/Users/katyd/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Projects/grocery-build/index.html",
+		"/C/Projects/grocery-build/package.json",
+		"/C/Projects/grocery-build/assets/app.scss",
+		"/C/Projects/grocery-build/assets/app.css",
+		"/C/Projects/grocery/node_modules/vuedraggable/src/vuedraggable.js",
+		"/C/Projects/grocery/index.html",
+		"/C/Projects/grocery/readme.md",
+		"/C/Projects/grocery/css/grocery.css",
+		"/C/Projects/grocery/css/sb-admin-2.min.css",
+		"/C/Projects/grocery/.gitignore",
+		"/C/Projects/grocery/package.json",
+		"/C/Projects/wp-vue-mimosa/public/index.html",
+		"/C/Projects/wp-vue-mimosa/src/main.js",
+		"/C/Projects/wp-vue-mimosa/src/router.js",
+		"/C/Projects/wp-vue-mimosa/src/views/Page.vue",
+		"/C/Projects/wp-vue-mimosa/src/views/Feed.vue",
+		"/C/Projects/wp-vue-mimosa/src/store/index.js",
+		"/C/Projects/grocery/tests/main_test.js",
+		"/C/Users/bjbar/Dropbox/Katy/Professional Development/PROJECT PLANNING.txt",
+		"/C/Users/bjbar/Dropbox/Katy/Professional Development/NOTES.10.17.19.txt",
+		"/C/Projects/grocery/components/currencyInput.vue",
+		"/C/Projects/grocery/terminal.glue",
+		"/C/Projects/simple-vuejs-app-master/package.json",
+		"/C/Projects/vue-realworld-example-app-master/vue-realworld-example-app-master/src/views/Home.vue",
+		"/C/Projects/vue-realworld-example-app-master/vue-realworld-example-app-master/src/router/index.js",
+		"/C/Projects/vue-realworld-example-app-master/vue-realworld-example-app-master/package.json",
+		"/C/Projects/vue-realworld-example-app-master/vue-realworld-example-app-master/README.md"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"minimum",
+			"webpack",
+			"modules",
+			"resolve",
+			"response",
+			"destroy",
+			"save",
+			"form",
+			"through",
+			"views",
+			"patch",
+			"FORM",
+			"models",
+			"MOdels",
+			"OR ",
+			"OR",
+			"views",
+			"link_to",
+			"views",
+			"do 2d1d123dd",
+			"do 2d1d123d",
+			"do 2d1d",
+			"do ",
+			"migration",
+			"methods",
+			"OR",
+			"MAP",
+			"string",
+			"array",
+			"each",
+			"loop",
+			"require",
+			"_",
+			"module",
+			"methods",
+			"begin",
+			"function",
+			"array",
+			"for",
+			"format",
+			"theme-colors",
+			"224abe",
+			"theme-colors",
+			"bg-gradient-primary",
+			"console",
+			"this.state",
+			"primary",
+			"$emit",
+			"updateCheckedTotal",
+			"saveList",
+			".cookie",
+			"addItem",
+			"additem",
+			"addGroup",
+			"\n\t    addItem(item,areaIndex){\n\t\t  \tvar key = item.name.toLowerCase().replace(\" \",\"\");\n\t\t  \tif(key in this.state.list[areaIndex].items) key=key+Math.random();\n\t\t  \tVue.set(this.state.list[areaIndex].items,key,item);\n\t    },",
+			"delete",
+			"updateChecklist",
+			"checked",
+			"key",
+			"watch",
+			"cookie",
+			"check",
+			"goBack",
+			"router",
+			"setPost",
+			"goBack",
+			"bus",
+			"6610f2",
+			"Vue.$cookie",
+			"this.$cookie",
+			"console",
+			"format",
+			");\n",
+			"tr",
+			">\n",
+			"\n\t\t\t\t\t<td>\n\t\t\t\t\t\t<input type=\"number\" class=\"form-control form-control-user\" v-model=\"item.qty\" />\n\t\t\t\t\t</td>",
+			"console",
+			"\n\n\tvar groceryItem = {\n\t\tprops: ['item'],\n\t\ttemplate:`<tr role=\"row\">\n\t\t\t\t\t<td>\n\t\t\t\t\t\t{{item.name}}\n\t\t\t\t\t</td>\n\t\t\t\t\t<td @click=\"updatePrice\" class=\"text-right\">\n\t\t\t\t\t\t{{this.$parent.$parent.formatPrice(item.cost)}}\n\t\t\t\t\t</td>\n\t\t\t\t</tr>`,\n\t\tmethods:{\n\t\t\tupdatePrice:function(){\n\t\t\t\tthis.item.cost+=1;\n\t\t\t}\n\t\t}\n\t}",
+			"\n\t\t\t{ \n\t\t\t\tgroupName:\"Aisle One\",\n\t\t\t\titems:[\n\n\t\t\t\t]\n\t\t\t },",
+			"min",
+			"e74a3b",
+			"code",
+			"key",
+			"estCost",
+			"initial",
+			"javascript",
+			"servername",
+			"Montserrat"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Vue.cookie",
+			"Vue.$cookie",
+			"code",
+			"Open Sans"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 335.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
