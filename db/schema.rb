@@ -12,10 +12,13 @@
 
 ActiveRecord::Schema.define(version: 2020_09_05_235732) do
 
+  # These are extensions that must be enabled in order to support this database
+  enable_extension "plpgsql"
+
   create_table "grocery_list_groups", force: :cascade do |t|
     t.string "name"
     t.integer "sort"
-    t.integer "grocery_list_id", null: false
+    t.bigint "grocery_list_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["grocery_list_id"], name: "index_grocery_list_groups_on_grocery_list_id"
@@ -26,7 +29,7 @@ ActiveRecord::Schema.define(version: 2020_09_05_235732) do
     t.float "cost"
     t.float "qty"
     t.integer "sort"
-    t.integer "grocery_list_group_id", null: false
+    t.bigint "grocery_list_group_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["grocery_list_group_id"], name: "index_grocery_list_items_on_grocery_list_group_id"
@@ -36,7 +39,9 @@ ActiveRecord::Schema.define(version: 2020_09_05_235732) do
     t.string "name"
     t.boolean "template"
     t.float "total"
-    t.integer "user_id", null: false
+    t.float "budget"
+    t.float "sales_tax"
+    t.bigint "user_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["user_id"], name: "index_grocery_lists_on_user_id"
@@ -45,15 +50,15 @@ ActiveRecord::Schema.define(version: 2020_09_05_235732) do
   create_table "settings", force: :cascade do |t|
     t.string "code"
     t.string "value"
-    t.integer "user_id", null: false
+    t.bigint "user_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["user_id"], name: "index_settings_on_user_id"
   end
 
   create_table "users", force: :cascade do |t|
-    t.string "first_name"
-    t.string "last_name"
+    t.string "first_name", null: false
+    t.string "last_name", null: false
     t.string "email", null: false
     t.string "password_digest", null: false
     t.integer "onboarding", default: 0
