@@ -13,14 +13,9 @@ rake db:migrate
 yarn install
 ruby bin\rails server
 ```
-The Vue app is setup to reference localhost:3000 for the Ruby server.
+The Vue app is setup to reference localhost:3000 for the Ruby server. You also need local redis running.
 
 ### Sources
-+ Theme: Start Bootstrap - [SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2)
-+ Icons: [FontAwesome](https://fontawesome.com/)
-+ [Vue.js](http://vuejs.org/)
-+ [Vuex](https://vuex.vuejs.org/)
-+ [SortableJS / Vue.Draggable](https://github.com/SortableJS/Vue.Draggable)
 + [Ruby on Rails](https://rubyonrails.org/)
 + [PostgresSQL](https://www.postgresql.org/)
-+ [Webkpack](https://webpack.js.org/)
++ [Redis](https://redis.io/)
