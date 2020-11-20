@@ -7,6 +7,14 @@ Manage a grocery list budget. First, plan your trip by making your list of items
 
 This is a Sandbox Project used for me (Katelynn) to learn Vue and Ruby on Rails. There are many things I'd like to add at a later time as I continue to learn. 
 
+## Setup
+```
+rake db:migrate
+yarn install
+ruby bin\rails server
+```
+The Vue app is setup to reference localhost:3000 for the Ruby server.
+
 ### Sources
 + Theme: Start Bootstrap - [SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2)
 + Icons: [FontAwesome](https://fontawesome.com/)
@@ -14,4 +22,5 @@ This is a Sandbox Project used for me (Katelynn) to learn Vue and Ruby on Rails.
 + [Vuex](https://vuex.vuejs.org/)
 + [SortableJS / Vue.Draggable](https://github.com/SortableJS/Vue.Draggable)
 + [Ruby on Rails](https://rubyonrails.org/)
++ [PostgresSQL](https://www.postgresql.org/)
 + [Webkpack](https://webpack.js.org/)
